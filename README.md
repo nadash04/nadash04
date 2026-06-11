@@ -75,6 +75,5 @@ Focused on **Data Analysis, Artificial Intelligence, and Data Science**
 
 ## 📫 Contact
 
-📧 [nada.k.sh156@gmail.com](mailto:nada.k.sh156@gmail.com)
-💻 GitHub: [nadash04](https://github.com/nadash04)
-🔗 LinkedIn: Add your LinkedIn link here
+ [nada.k.sh156@gmail.com](mailto:nada.k.sh156@gmail.com)
+ LinkedIn: https://www.linkedin.com/in/nada-k-abushawish-408b50381/
