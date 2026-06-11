@@ -2,7 +2,16 @@
 
 I am a fourth-year Computer Science student focused on **Data Analysis, Artificial Intelligence, and Data Science**.
 I work with raw and messy datasets and transform them into clean, structured, and meaningful insights using Python, Pandas, statistical analysis, and data visualization.
+## 🧰 Tech Stack
 
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-lightgrey)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-EDA-green)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![SQL](https://img.shields.io/badge/SQL-Database-lightblue)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
 My main interest is helping turn data into clear answers through:
 
 * Data cleaning and preprocessing
