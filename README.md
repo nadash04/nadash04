@@ -1,5 +1,3 @@
-# Hi, I'm Nada Abushawish 
-
 ## Data Analyst | AI & Data Science Student | Python & EDA
 
 I am a fourth-year Computer Science student focused on **Data Analysis, Artificial Intelligence, and Data Science**.
