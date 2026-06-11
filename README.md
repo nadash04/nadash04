@@ -13,14 +13,20 @@ I focus on real-world datasets, especially projects involving **data cleaning, e
 
 ##  Tech Stack
 
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-lightgrey)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
-![Seaborn](https://img.shields.io/badge/Seaborn-EDA-green)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![SQL](https://img.shields.io/badge/SQL-Database-lightblue)
-![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-1F4E79?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2F3A8F?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-1C6EA4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/EDA-3A86FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning-256D85?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Visualization-5E81AC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statistics-2A9D8F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-D97706?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
