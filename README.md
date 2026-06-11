@@ -10,9 +10,6 @@ I focus on real-world datasets, especially projects involving **data cleaning, e
 `Data Analysis` • `Exploratory Data Analysis` • `Data Cleaning` • `Python` • `Pandas` • `Visualization` • `Statistical Analysis`
 
 ---
-
-##  Tech Stack
-
 ## Tech Stack
 
 <p>
