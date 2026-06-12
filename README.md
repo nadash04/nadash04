@@ -3,13 +3,10 @@
 I turn raw and messy data into clean, structured insights using **Python, Pandas, statistical analysis, and data visualization**.
 I focus on real-world datasets, especially projects involving **data cleaning, exploratory analysis, location-time patterns, and research-based insights**.
 
----
-
 ##  Core Focus
 
 `Data Analysis` • `Exploratory Data Analysis` • `Data Cleaning` • `Python` • `Pandas` • `Visualization` • `Statistical Analysis`
 
----
 ## Tech Stack
 
 <p>
@@ -36,8 +33,6 @@ I focus on real-world datasets, especially projects involving **data cleaning, e
 * Build summary tables and dashboard-ready outputs
 * Work with Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, and Jupyter Notebook
 
----
-
 ##  Featured Work
 
 ### Location-Time Crisis Event Analysis
@@ -61,16 +56,12 @@ Currently contributing to research data workflows involving:
 * Location processing and spatial preparation
 * Pattern analysis across time and space
 
----
-
 ##  Background
 
 Fourth-year Computer Science student at **Al-Aqsa University – Gaza**
 Focused on **Data Analysis, Artificial Intelligence, and Data Science**
 
----
-
-## 📫 Contact
+##  Contact
 
  [nada.k.sh156@gmail.com](mailto:nada.k.sh156@gmail.com)
  LinkedIn: https://www.linkedin.com/in/nada-k-abushawish-408b50381/
