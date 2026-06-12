@@ -1,4 +1,4 @@
-#**Data Analyst | AI & Data Science Student | Python • EDA • Visualization**
+# Data Analyst | AI & Data Science Student | Python • EDA • Visualization
 
 I turn raw and messy data into clean, structured insights using **Python, Pandas, statistical analysis, and data visualization**.
 I focus on real-world datasets, especially projects involving **data cleaning, exploratory analysis, location-time patterns, and research-based insights**.
